@@ -1,0 +1,32 @@
+.nav {
+  background-color: purple;
+}
+.nav-link {
+  color: green;
+}
+
+.about-me {
+  border: solid
+
+
+}
+.welcome-img {
+  border-radius: 50%;
+  transition: all .5s;
+}
+.welcome-img:hover {
+  transform: scale(1.2) rotate(360deg);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+.fab{
+  color: green;
+}
