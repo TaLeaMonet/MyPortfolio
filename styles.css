@@ -18,6 +18,15 @@
   transform: scale(1.2) rotate(360deg);
 }
 
+.projects {
+  border: solid;
+  padding: 75px;
+}
+.contact, .contact-form {
+   border: solid;
+   padding: 75px;
+}
+
 .footer {
     position: fixed;
     left: 0;
