@@ -22,8 +22,14 @@
   border: solid;
   padding: 75px;
 }
-.contact, .contact-form {
+.contact {
+  border: solid;
+}
+
+ .contact-form {
    border: solid;
+   border-radius: 10px;
+   width: 45%;
    padding: 75px;
 }
 
