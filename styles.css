@@ -24,6 +24,7 @@
 }
 .contact {
   border: solid;
+  padding: 50px;
 }
 
  .contact-form {
@@ -31,6 +32,8 @@
    border-radius: 10px;
    width: 45%;
    padding: 75px;
+   background-color: purple;
+
 }
 
 .footer {
@@ -41,6 +44,7 @@
     background-color: purple;
     color: white;
     text-align: center;
+
 }
 .fab, .far{
   color: green;
